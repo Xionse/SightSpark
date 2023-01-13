@@ -1,3 +1,10 @@
+# pyttsx3==2.71 is a Python package that provides a simple way to use the TTS engine included with Windows and Mac. It allows the software to convert text to speech.
+# pyobjc-framework-Cocoa==6.2 is a Python package that provides access to Mac OS X's Cocoa frameworks from Python.
+# pydot==1.4.1 is a Python package that allows you to create and handle directed and undirected graphs.
+# pygame==2.0.0.dev12 is a Python package that provides functionality for creating games and multimedia applications.
+# pybrlapi==5.5 is a Python package that allows the software to connect to a Braille display and get the text which is displayed on the screen.
+
+
 pyttsx3==2.71
 pyobjc-framework-Cocoa==6.2
 pydot==1.4.1
