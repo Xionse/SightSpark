@@ -1,0 +1,5 @@
+pyttsx3==2.71
+pyobjc-framework-Cocoa==6.2
+pydot==1.4.1
+pygame==2.0.0.dev12
+pybrlapi==5.5
