@@ -1,5 +1,5 @@
 # SightSpark
-SightSpark is a cross-platform screen reader software that provides speech and braille output for individuals with visual impairments. It is designed to work seamlessly on Windows, Mac, and Linux operating systems.
+*SightSpark* is a cross-platform screen reader software that provides speech and braille output for individuals with visual impairments. It is designed to work seamlessly on Windows, Mac, and Linux operating systems.
 
 ## Key features
 * Compatibility with multiple operating systems (Windows, Mac, Linux)
