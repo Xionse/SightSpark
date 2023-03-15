@@ -23,4 +23,4 @@ If you need assistance with SightSpark, please visit our Support Center for trou
 SightSpark is an open-source project, and we welcome contributions from the community. If you are interested in contributing to the development of SightSpark, please see our Contribution Guidelines for more information.
 
 ## License
-SightSpark is released under the GNU General Public License v3.0.
+*SightSpark* is released under the GNU General Public License v3.0.
